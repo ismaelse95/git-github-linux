@@ -54,6 +54,14 @@ Y a continuación clonamos los repositorios en nuestro ordenador.
 git clone git@github.com:usuario/repositorio.git
 ~~~
 
+Tendremos que  especificar el nombre y el correo de nuestro git para ello nos vamos al repositorio y tendremos que añadir los siguientes comandos.
+
+~~~
+$ git config --global user.name "Nombre Apellido"
+$ git config --global user.email correoelectronico@gmail.com
+$ git commit --amend --reset-author
+~~~
+
 Podemos crear y añadir un fichero, siendo el primer paso crearlo en nuestro ordenador y despues sincronizarlo con Github para ello tendremos que ejecutar el comando de creción de fichero.
 
 ~~~
