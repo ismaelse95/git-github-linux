@@ -103,3 +103,8 @@ $ git commit -am "He borrado el fichero prueba2"
 $ git push
 ~~~
 
+Podemos ver el estado de nuestro github por la temrinal.
+
+~~~
+$ git status
+~~~
