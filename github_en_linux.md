@@ -108,3 +108,5 @@ Podemos ver el estado de nuestro github por la temrinal.
 ~~~
 $ git status
 ~~~
+
+prueba.
